@@ -1,3 +1,4 @@
+// Get access to .env file
 const dotenv = require('dotenv');
 dotenv.config();
 const MongoClient = require('mongodb').MongoClient;
